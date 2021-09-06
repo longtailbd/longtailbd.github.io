@@ -1,10 +1,12 @@
-## 최서연 Github page
+## 최서연 이력서
 
-안녕하세요.
+안녕하세요. 최서연입니다.
 
 ### 소속
 
 이화여자대학교 조형예술학부 조소전공
+
+![GitHub Logo](/images/logo.png)
 
 ```markdown
 Syntax highlighted code block
