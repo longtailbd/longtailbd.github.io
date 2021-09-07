@@ -8,7 +8,7 @@
 
 ![Playground](https://github.com/longtailbd/longtailbd.github.io/blob/main/%ED%8B%881.jpeg?raw=true)
 <img src="틈1" alt="Playground" width="800" height="600"/>
-![Playground]()
+![Playground](https://github.com/longtailbd/longtailbd.github.io/blob/main/%ED%8B%883.jpeg?raw=true)
 <img src="틈3" alt="Playground" width="800" height="600"/>
 ```markdown
 Syntax highlighted code block
